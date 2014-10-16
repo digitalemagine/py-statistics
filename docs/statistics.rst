@@ -5,8 +5,9 @@
    :synopsis: mathematical statistics functions
 .. moduleauthor:: Steven D'Aprano <steve+python@pearwood.info>
 .. sectionauthor:: Steven D'Aprano <steve+python@pearwood.info>
+.. portauthor:: Stefano Crosta <stefano@digitalemagine.com>
 
-.. versionadded:: 3.4
+.. versionadded:: 2.* (backport from 3.4)
 
 .. testsetup:: *
 

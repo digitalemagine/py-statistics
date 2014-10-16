@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 ##  Module statistics.py
 ##
 ##  Copyright (c) 2013 Steven D'Aprano <steve+python@pearwood.info>.
@@ -272,9 +273,6 @@ def _counts(data):
 
 def mean(data):
     u"""Return the sample arithmetic mean of data.
-
-    >>> mean([])
-    0
 
     >>> mean([1, 2, 3, 4, 4])
     2.8

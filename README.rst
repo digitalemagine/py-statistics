@@ -14,3 +14,7 @@ Relevant links:
 
 This module provides functions for calculating mathematical statistics of numeric (Real-valued) data.
 
+TODO
+====
+
+Make a version for Python 3.0 -> 3.2 (http://pythonhosted.org//setuptools/python3.html)
