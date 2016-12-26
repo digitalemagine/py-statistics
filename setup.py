@@ -27,12 +27,12 @@ setup(
     # The project's main homepage.
     url='https://github.com/digitalemagine/py-statistics',
 
-    # Author details
-    author='Stefano Crosta',
-    author_email='stefano@digitalemagine.com',
+    # Maintainer details (this is a backport)
+    maintainer='Stefano Crosta',
+    maintainer_email='stefano@digitalemagine.com',
 
     # Choose your license
-    license='Apache License 2.0',
+    license='PSF License',
 
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
@@ -47,7 +47,7 @@ setup(
         # 'Topic :: Software Development :: Build Tools',
 
         # Pick your license as you wish (should match "license" above)
-        # 'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: Python Software Foundation License',
 
         # Specify the Python versions you support here. In particular, ensure
         # that you indicate whether you support Python 2, Python 3 or both.
