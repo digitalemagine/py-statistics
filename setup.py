@@ -19,7 +19,7 @@ setup(
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
     # http://packaging.python.org/en/latest/tutorial.html#version
-    version='1.0.3.5',
+    version='3.4.0b3',
 
     description='A Python 2.* port of 3.4 Statistics Module',
     long_description=long_description,
