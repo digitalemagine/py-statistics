@@ -8,6 +8,12 @@ A port of Python 3.4 statistics module to Python 2.*, initially done through the
 This module provides functions for calculating mathematical statistics of numeric (Real-valued) data.
 
 
+Bugs
+====
+
+Please use the github tracker (see github link later)
+
+
 Sources
 =======
 
